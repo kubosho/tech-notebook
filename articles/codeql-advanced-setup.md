@@ -8,6 +8,10 @@ published: false
 
 [CodeQL](https://docs.github.com/ja/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql)使ってますか？
 
+そんなCodeQLですが、[デフォルトの設定](https://docs.github.com/en/code-security/code-scanning/enabling-code-scanning/configuring-default-setup-for-code-scanning)やorganizationのデフォルト設定だと少し柔軟性に欠ける場合があるかもしれません。そんなときはGitHub Actionsのworkflowを書くことで、CodeQLの挙動をカスタマイズすることができます。
+
+この記事では挙動のカスタマイズとしてPull Requestの変更差分にだけCodeQLを使って検査するGitHub Actionsのworkflowを紹介します。
+
 CodeQLをたっぷり使っているキミも、まだまだのキミも、CodeQLの高度な構成を知って素早くCodeQLによる検査を実行できるようにしましょう！
 
 ## はじめに
