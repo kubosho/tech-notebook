@@ -14,6 +14,6 @@
     "zenn-cli": "^0.2.0"
   },
   "devDependencies": {
-    "@kubosho/configs": "4.0.32"
+    "@kubosho/configs": "6.3.8"
   }
 }
