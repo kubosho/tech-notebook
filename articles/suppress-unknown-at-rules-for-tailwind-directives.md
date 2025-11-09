@@ -6,11 +6,11 @@ topics: ["tailwindcss", "vscode"]
 published: true
 ---
 
-Tailwind CSSのv4で定義されているディレクティブをCSSファイル内で使った際、VS Code内にて `unknownAtRules` という形で問題として報告ｓれてしまう課題を解決した話です。
+Tailwind CSSのv4で定義されているディレクティブをCSSファイル内で使った際、VS Code内にて `unknownAtRules` という形で問題として報告されてしまう課題を解決した話です。
 
 ## 課題
 
-Tailwind CSSでは、CSSの仕様に無い独自のat-rules（ディレクティブ）が定義されています。
+Tailwind CSSでは、CSSの仕様に無い独自のat-rules（以下、ディレクティブ）が定義されています。
 
 このディレクティブを使う場合、VS Code上でディレクティブに対し黄色い波線が表示されます。
 
