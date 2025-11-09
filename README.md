@@ -4,7 +4,7 @@ Tech articles for Zenn.
 
 ## How to use
 
-```
+```shell
 👇 Create new article
 $ npx zenn new:article
 
