@@ -18,7 +18,7 @@ Tailwind CSSでは、CSSの仕様に無い独自のat-rules（以下、ディレ
 
 ビルドプロセスには影響ないですが、ファイル内に黄色い波線が表示されているのは気持ち悪いですね。
 
-## 解決方法1：Custom Data Extensionを使う方法
+## 解決方法1：Custom Data Extensionを使う
 
 VS Codeに備わっている[Custom Data Extension](https://code.visualstudio.com/api/extension-guides/custom-data-extension)を使って、Tailwind CSSのディレクティブをVS Code側で認識できるように拡張します。
 
