@@ -1,5 +1,5 @@
 ---
-title: "Tailwind CSSのディレクティブ定義時に「unknownAtRules」が問題として報告される現象の対処方法"
+title: "VS Code上でTailwind CSSのディレクティブで「unknownAtRules」が出てしまう問題を解消する方法"
 emoji: "⚠️"
 type: "tech"
 topics: ["tailwindcss", "vscode"]
