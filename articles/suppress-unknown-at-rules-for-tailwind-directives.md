@@ -157,7 +157,7 @@ VS Codeに備わっている[Custom Data Extension](https://code.visualstudio.co
 
 ## 解決方法2：Tailwind CSS IntelliSenseのインストールと設定
 
-もう一つの方法は[公式ドキュメント](https://tailwindcss.com/docs/editor-setup#syntax-support)に書いている通りで、[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)の拡張をインストールして、CSSファイルの言語モードをTailwind CSSにする方法もあります。
+もう1つの方法は[公式ドキュメント](https://tailwindcss.com/docs/editor-setup#syntax-support)に書いている通りで、[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)の拡張をインストールして、CSSファイルの言語モードをTailwind CSSにする方法もあります。
 
 言語モードの変更方法は[Programming Languages - Change the language for the selected file](https://code.visualstudio.com/docs/languages/overview#_change-the-language-for-the-selected-file)に書いてあります。
 
