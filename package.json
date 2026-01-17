@@ -11,7 +11,7 @@
   "author": "kubosho <ta2@o2p.jp>",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "0.2.11"
+    "zenn-cli": "0.3.1"
   },
   "devDependencies": {
     "@kubosho/configs": "6.5.15",
