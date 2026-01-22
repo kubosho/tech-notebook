@@ -14,7 +14,7 @@
     "zenn-cli": "0.3.1"
   },
   "devDependencies": {
-    "@kubosho/configs": "6.5.16",
+    "@kubosho/configs": "6.5.17",
     "prettier": "3.8.0",
     "textlint": "15.5.1",
     "textlint-filter-rule-comments": "1.2.2",
