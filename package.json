@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@kubosho/configs": "6.5.17",
-    "prettier": "3.8.0",
+    "prettier": "3.8.1",
     "textlint": "15.5.1",
     "textlint-filter-rule-comments": "1.2.2",
     "textlint-rule-ja-no-weak-phrase": "2.0.0",
